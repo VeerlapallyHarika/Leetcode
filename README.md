@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Rolling Hash
 |  |
 | ------- |
