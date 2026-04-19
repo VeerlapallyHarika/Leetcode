@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
