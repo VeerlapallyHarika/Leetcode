@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0349-intersection-of-two-arrays) |
