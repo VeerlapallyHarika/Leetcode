@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2057-smallest-index-with-equal-value](https://github.com/VeerlapallyHarika/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
 | ------- |
