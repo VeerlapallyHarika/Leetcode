@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/VeerlapallyHarika/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
