@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0056-merge-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
