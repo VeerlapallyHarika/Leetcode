@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0322-coin-change](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -230,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
