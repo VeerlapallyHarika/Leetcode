@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0072-edit-distance) |
 | [0696-count-binary-substrings](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
