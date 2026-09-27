@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0072-edit-distance) |
 | [0696-count-binary-substrings](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0761-special-binary-string) |
+| [1021-remove-outermost-parentheses](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VeerlapallyHarika/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -285,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VeerlapallyHarika/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/VeerlapallyHarika/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
